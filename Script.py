@@ -206,8 +206,8 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Bot_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+▫️   𝙲𝚑𝚊𝚗𝚗𝚎𝚕  : @MS_New_Moviez
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @MS_ChatGroup
 ╰─────── • ◆ • ───────╯</b>"""
 
 
